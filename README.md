@@ -12,8 +12,8 @@ Este es un sistema automatizado que analiza y responde correos electrónicos uti
 ## 🛠 Instalación y Configuración
 
 ```bash
-git clone https://github.com/TU-USUARIO/bot-respuesta-correos.git
-cd bot-respuesta-correos
+git clone https://github.com/checho1077/messagebot.git
+cd messagebot
 
 
 ### **🔹 5. Cómo Usar el Bot**
